@@ -1,0 +1,16 @@
+{
+    "name": "com.k3i.UnityCommonUI",
+    "version": "1.0.0",
+    "displayName": "Unity Common UI",
+    "description": "공통 기본 스프라이트 이미지 패키지",
+    "unity": "2019.1",
+   "keywords": [
+      "image",
+      "sprite",
+      "UI"
+    ],
+    "author": {
+      "name": "Xojong",
+      "email": "xojong@gmail.com"
+    }
+  }
